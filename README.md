@@ -10,6 +10,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Pratik-Tanawade" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/tanawadep2173" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@Pratik-Tanawade" height="30" width="40" /></a>
 <a href="https://www.credly.com/users/tanawade_pratik-2113" target="blank"><img align="center" src="https://cdn.jsdelivr.net/gh/rahuldkjain/github-profile-readme-generator/src/images/icons/Social/credly.svg" alt="Pratik-Tanawade" height="30" width="40" /></a>
+
+<a href="https://www.credly.com/users/doanvinhphu" style="display: inline-flex; align-items: center;"><img src="./credly-logo.svg" width="48px" style="margin-right: 16px;"></a>
+  
 </p>
 
 <h3 align="left"> Languages and Tools:</h3>
